@@ -1,0 +1,2 @@
+#!/bin/bash
+Sudo chown-R Vincent:staff*
